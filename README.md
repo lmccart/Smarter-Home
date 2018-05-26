@@ -1,4 +1,4 @@
-# Smart Home
+#### Smart Home
 SFPC Code Societies, Summer 2018
 
 ![smarthome illustration](Alexa_Final_s.jpg)
