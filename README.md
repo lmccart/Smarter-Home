@@ -1,6 +1,7 @@
 # Smart Home
 SFPC Code Societies, Summer 2018
 
+![smarthome illustration](Alexa_Final_s.jpg)
 
 ## Prep Reading
 * Kashmir Hill and Surya Mattu, [The House That Spied On Me](https://gizmodo.com/the-house-that-spied-on-me-1822429852)
