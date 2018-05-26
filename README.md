@@ -13,9 +13,22 @@ Illustration by [Hilary Hubanks](http://www.hilaryhubanks.com/)
 
 ## Day 1
 
+### House Work and Art Work
+* Helen Molesworth, [House Work and Art Work](http://art310-f11-hoy.wikispaces.umb.edu/file/view/Molesworth+House+Work+and+Art+Work.pdf)
+* Mary Maggic, [Housewives Making Drugs](http://maggic.ooo/Housewives-Making-Drugs-2017)
+* 
+* coming soon
+
+
+### Guest and Host
+coming soon
+
+
 
 ### Homework
+coming soon
 
 
 ## Day 2
+coming soon
 
