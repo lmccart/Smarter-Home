@@ -1,5 +1,4 @@
-#### Smart Home
-SFPC Code Societies, Summer 2018
+**Smart Home**, SFPC Code Societies, Summer 2018
 
 ![smarthome illustration](Alexa_Final_s.jpg)
 Illustration by [Hilary Hubanks](http://www.hilaryhubanks.com/)
