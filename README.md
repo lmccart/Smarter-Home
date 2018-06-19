@@ -17,8 +17,7 @@ Capture a portrait of yourself in your home using a computational device. Feel f
 
 ### Capturing Home
 We will discuss the portraits of yourselves in your homes that you have captured. We will look at examples of other artists that have captured home using various technologies. How do we know when we are home? Could we write the code for creating a home-space?
-
-References
+* Caitlin Robinson and Ziv Schneider, [Watertight](http://www.watertight.world/)
 * coming soon
 
 ### House Work and Art Work
