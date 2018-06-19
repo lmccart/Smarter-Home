@@ -15,27 +15,31 @@ Illustration by [Hilary Hubanks](http://www.hilaryhubanks.com/)
 
 
 ## Prep Assignment
-Please capture a portrait of yourself in your home using a computational device. Feel free to interpret the words "portrait", "home", and "computational device" broadly. I just googled "computational device" and [this](https://www.cs.drexel.edu/~introcs/F2K/lectures/2.1_computers/examples.html) was the first link that came up. I believe there are a few more examples (including low-tech devices) to be imagined... Please bring the portrait to the first class for discussion.
+Capture a portrait of yourself in your home using a computational device. Feel free to interpret the words "portrait", "home", and "computational device" broadly. I just googled "computational device" and [this](https://www.cs.drexel.edu/~introcs/F2K/lectures/2.1_computers/examples.html) was the first link that came up. I believe there are a few more examples (including low-tech devices) to be imagined... Please bring the portrait to the first class for discussion.
 
 ## Day 1
+
+### Capturing Home
 
 ### House Work and Art Work
 * Helen Molesworth, [House Work and Art Work](http://art310-f11-hoy.wikispaces.umb.edu/file/view/Molesworth+House+Work+and+Art+Work.pdf)
 * Mary Maggic, [Housewives Making Drugs](http://maggic.ooo/Housewives-Making-Drugs-2017)
-* 
 * coming soon
 
-
-### Guest and Host
+### Home Rituals
 coming soon
-
-
 
 ### Homework
 coming soon
 
 
 ## Day 2
+
+### Guest and Host
+coming soon
+
+
+## Going Further
 coming soon
 
 
