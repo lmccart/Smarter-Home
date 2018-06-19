@@ -1,4 +1,4 @@
-## Smart Home
+# Smart Home
 
 [SFPC Code Societies](http://sfpc.io/codesocieties/), Summer 2018
 
