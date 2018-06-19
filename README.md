@@ -38,6 +38,8 @@ coming soon
 ### Guest and Host
 coming soon
 
+### Future Home
+
 
 ## Going Further
 coming soon
