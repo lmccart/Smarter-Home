@@ -20,6 +20,7 @@ Capture a portrait of yourself in your home using a computational device. Feel f
 ## Day 1
 
 ### Capturing Home
+coming soon
 
 ### House Work and Art Work
 * Helen Molesworth, [House Work and Art Work](http://art310-f11-hoy.wikispaces.umb.edu/file/view/Molesworth+House+Work+and+Art+Work.pdf)
