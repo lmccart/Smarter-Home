@@ -26,7 +26,7 @@ coming soon
 ### Home Rituals
 coming soon
 
-### 📝Homework
+### ✨Homework
 coming soon
 
 
