@@ -16,7 +16,10 @@ Capture a portrait of yourself in your home using a computational device. Feel f
 ## Day 1
 
 ### Capturing Home
-coming soon
+We will discuss the portraits of yourselves in your homes that you have captured. We will look at examples of other artists that have captured home using various technologies. How do we know when we are home? Could we write the code for creating a home-space?
+
+References
+* coming soon
 
 ### House Work and Art Work
 * Helen Molesworth, [House Work and Art Work](http://art310-f11-hoy.wikispaces.umb.edu/file/view/Molesworth+House+Work+and+Art+Work.pdf)
