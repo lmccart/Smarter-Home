@@ -19,7 +19,9 @@ Capture a portrait of yourself in your home using a computational device. Feel f
 ## Day 1
 
 ### Capturing Home
-We will discuss the portraits of yourselves in your homes that you have captured. We will look at examples of other artists that have captured home using various technologies. How do we know when we are home? Could we write the code for creating a home-space?
+We will discuss the portraits of yourselves in your homes that you have captured. We will look at examples of other artists that have captured home using various technologies. How do we know when we are home? Could we write the code for creating a home-space? 
+
+What does it mean to capture a private space? What happens when networked technologies are brought into this? What roles do surveillance, data collection, automation, and telepresence play?
 
 ### House Work and Art Work
 How do we think about labor in the home? In what ways is our thinking around this gendered, and what are strategies for subverting or pushing back on these ideas? We will look at artists dealing with house work, making art work in their homes, and the technologies that accompany these practices.
