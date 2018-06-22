@@ -42,6 +42,7 @@ Let's debrief the guest and host activity. What did it feel like and what did yo
 
 ### Future Home
 We will spend most of this day creating our home of the future together, by building the devices designed in the Home Rituals activity. The devices can be installed in the SFPC space for further use and elaboration over the three weeks program.
+<br><br>
 
 ## Going Further
 * [references](https://github.com/lmccart/Smart-Home/wiki/References)
