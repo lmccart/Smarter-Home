@@ -48,7 +48,7 @@ We will spend most of this day creating our home of the future together, by buil
 * coming soon!
 
 <br><br><br><br>
-<img src="Alexa_Final_s.jpg" alt="smarthome illustration" width="300px">
+<img src="Alexa_Final_s.jpg" alt="smarthome illustration" width="600px"><br>
 Illustration by [Hilary Hubanks](http://www.hilaryhubanks.com/)
 
 
