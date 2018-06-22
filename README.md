@@ -12,7 +12,7 @@ We will explore home as a place, as an identity, as a practice, and as a series 
 * Johanna Hedva, [Sick Woman Theory](http://www.maskmagazine.com/not-again/struggle/sick-woman-theory)
 * Kate Crawford, [The Anxieties of Big Data](https://thenewinquiry.com/the-anxieties-of-big-data/)
 
-### Assignment
+### Activity
 Capture a portrait of yourself in your home using a computational device. Feel free to interpret the words "portrait", "home", and "computational device" broadly. I just googled "computational device" and [this](https://www.cs.drexel.edu/~introcs/F2K/lectures/2.1_computers/examples.html) was the first link that came up. I believe there are a few more examples (including low-tech devices) to be imagined... Please bring the portrait to the first class for discussion.
 <br><br>
 
@@ -38,19 +38,17 @@ What are the rituals we perform when we are at home? How have artists used ritua
 ## Day 2
 
 ### Guest and Host
-* coming soon
+Let's debrief the guest and host activity. What did it feel like and what did you consider as the host? As the guest? What improvisational spaces did these roles create? What limits did them impose? Was there a script followed or run? Could we connect our experiences to ideas of "host" in software or biology?
 
 ### Future Home
-* coming soon
-<br><br>
+We will spend most of this day creating our home of the future together, by building the devices designed in the Home Rituals activity. The devices can be installed in the SFPC space for further use and elaboration over the three weeks program.
 
 ## Going Further
 * [references](https://github.com/lmccart/Smart-Home/wiki/References)
-* coming soon
-
+* coming soon!
 
 <br><br><br><br>
-![smarthome illustration](Alexa_Final_s.jpg)
+![smarthome illustration](Alexa_Final_s.jpg =250x)
 Illustration by [Hilary Hubanks](http://www.hilaryhubanks.com/)
 
 
