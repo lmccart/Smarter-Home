@@ -3,6 +3,7 @@
 [SFPC Code Societies](http://sfpc.io/codesocieties/), Summer 2018
 
 We will explore home as a place, as an identity, as a practice, and as a series of rituals. What makes someone feel "at home" in a space or in a community (both in person and online)? We will investigate the meaning of home as private space. What happens when networked technologies are brought into this? What roles do surveillance, data collection, automation, and telepresence play? But what is our ideal home of the future? As a class, we will build a smart home on our terms, with each person contributing a device, gesture, piece of furniture, ritual, etc of their design to create an installation throughout sfpc space.
+<br><br>
 
 ## Prep
 
@@ -37,12 +38,13 @@ What are the rituals we perform when we are at home? How have artists used ritua
 ## Day 2
 
 ### Guest and Host
-coming soon
+* coming soon
 
 ### Future Home
+* coming soon
+<br><br>
 
-
-### Going Further
+## Going Further
 * [references](https://github.com/lmccart/Smart-Home/wiki/References)
 * coming soon
 
