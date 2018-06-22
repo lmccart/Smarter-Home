@@ -27,7 +27,7 @@ What are the rituals we perform when we are at home? How have artists used ritua
 2. Design a device to facilitate or support this ritual. What will be the function of this device? How will its visual form suggest its purpose? What materials, technologies, non-technologies, or information will you need to create this device?
 3. Once you have answered the questions in step 2, collect the materials, things, and information you need to build the device. If you are not able to find the items you need, adapt your design to work with what you can find. You do not need to begin building your device yet, we will have time during day 2, though you may start if you'd like.
 
-### ✨ Homework
+### Homework ✨
 1. **Home Rituals** If you have not completed steps 1-3 above, please do so before day 2. Bring your plans, designs, and all needed materials to the next class.
 2. **Guest and Host** During class you have optionally self selected roles of host or guest, and all guests have been matched with a host. The host and guest(s) are responsible for finding a mutually agreed time to meet up at the home of the host. The term "home" can be interpreted broadly. The host will host the guest(s) at their home for some period of time (it need not be long). They may plan an activity or let the time be free form. Both host and guest are requested to take note of their experience in their role for group discussion on day 2. Note: This activity is not intended to make anyone feel uncomfortable and anyone may opt out at any time. Please communicate with each other if you need to change or opt out after a plan has been made, so nobody is left hanging.
 
