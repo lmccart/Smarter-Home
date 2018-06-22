@@ -40,7 +40,8 @@ coming soon
 
 
 ### Going Further
-coming soon
+* [references](https://github.com/lmccart/Smart-Home/wiki/References)
+* coming soon
 
 
 
