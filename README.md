@@ -14,6 +14,7 @@ We will explore home as a place, as an identity, as a practice, and as a series 
 ### Assignment
 Capture a portrait of yourself in your home using a computational device. Feel free to interpret the words "portrait", "home", and "computational device" broadly. I just googled "computational device" and [this](https://www.cs.drexel.edu/~introcs/F2K/lectures/2.1_computers/examples.html) was the first link that came up. I believe there are a few more examples (including low-tech devices) to be imagined... Please bring the portrait to the first class for discussion.
 <br><br>
+
 ## Day 1
 
 ### Capturing Home
@@ -31,6 +32,7 @@ What are the rituals we perform when we are at home? How have artists used ritua
 ### Homework ✨
 1. **Home Rituals** If you have not completed steps 1-3 above, please do so before day 2. Bring your plans, designs, and all needed materials to the next class.
 2. **Guest and Host** During class you have optionally self selected roles of host or guest, and all guests have been matched with a host. The host and guest(s) are responsible for finding a mutually agreed time to meet up at the home of the host. The term "home" can be interpreted broadly. The host will host the guest(s) at their home for some period of time (it need not be long). They may plan an activity or let the time be free form. Both host and guest are requested to take note of their experience in their role for group discussion on day 2. Note: This activity is not intended to make anyone feel uncomfortable and anyone may opt out at any time. Please communicate with each other if you need to change or opt out after a plan has been made, so nobody is left hanging.
+<br><br>
 
 ## Day 2
 
