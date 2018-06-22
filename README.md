@@ -49,7 +49,7 @@ What are the rituals we perform when we are at home? How have artists used ritua
 * coming soon
 
 
-
+<br><br><br><br>
 ![smarthome illustration](Alexa_Final_s.jpg)
 Illustration by [Hilary Hubanks](http://www.hilaryhubanks.com/)
 
