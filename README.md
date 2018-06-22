@@ -17,20 +17,19 @@ Capture a portrait of yourself in your home using a computational device. Feel f
 
 ### Capturing Home
 We will discuss the portraits of yourselves in your homes that you have captured. We will look at examples of other artists that have captured home using various technologies. How do we know when we are home? Could we write the code for creating a home-space?
-* Caitlin Robinson and Ziv Schneider, [Watertight](http://www.watertight.world/)
-* coming soon
 
 ### House Work and Art Work
-* Helen Molesworth, [House Work and Art Work](http://art310-f11-hoy.wikispaces.umb.edu/file/view/Molesworth+House+Work+and+Art+Work.pdf)
-* Mary Maggic, [Housewives Making Drugs](http://maggic.ooo/Housewives-Making-Drugs-2017)
-* coming soon
+How do we think about labor in the home? In what ways is our thinking around this gendered, and what are strategies for subverting or pushing back on these ideas? We will look at artists dealing with house work, making art work in their homes, and the technologies that accompany these practices.
 
 ### Home Rituals
-coming soon
+What are the rituals we perform when we are at home? How have artists used ritual to create space? We will imagine rituals to turn SPFC into a home-space, and begin to design smart home devices to support these rituals.
+1. Write out a description, instructions, or score for your SFPC home ritual.
+2. Design a device to facilitate or support this ritual. What will be the function of this device? How will its visual form suggest its purpose? What materials, technologies, non-technologies, or information will you need to create this device?
+3. Once you have answered the questions in step 2, collect the materials, things, and information you need to build the device. If you are not able to find the items you need, adapt your design to work with what you can find. You do not need to begin building your device yet, we will have time during day 2, though you may start if you'd like.
 
 ### ✨ Homework
-coming soon
-
+1. **Home Rituals** If you have not completed steps 1-3 above, please do so before day 2. Bring your plans, designs, and all needed materials to the next class.
+2. **Guest and Host** During class you have optionally self selected roles of host or guest, and all guests have been matched with a host. The host and guest(s) are responsible for finding a mutually agreed time to meet up at the home of the host. The term "home" can be interpreted broadly. The host will host the guest(s) at their home for some period of time (it need not be long). They may plan an activity or let the time be free form. Both host and guest are requested to take note of their experience in their role for group discussion on day 2. Note: This activity is not intended to make anyone feel uncomfortable and anyone may opt out at any time. Please communicate with each other if you need to change or opt out after a plan has been made, so nobody is left hanging.
 
 ## Day 2
 
