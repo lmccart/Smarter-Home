@@ -16,7 +16,7 @@ We will explore home as a place, as an identity, as a practice, and as a series 
 Capture a portrait of yourself in your home using a computational device. Feel free to interpret the words "portrait", "home", and "computational device" broadly. I just googled "computational device" and [this](https://www.cs.drexel.edu/~introcs/F2K/lectures/2.1_computers/examples.html) was the first link that came up. I believe there are a few more examples (including low-tech devices) to be imagined... Please bring the portrait to the first class for discussion.
 <br><br>
 
-## Day 1
+## Day 1 (August 3, 6:30-9:30pm)
 
 ### Capturing Home
 We will discuss the portraits of yourselves in your homes that you have captured. We will look at examples of other artists that have captured home using various technologies. How do we know when we are home? Could we write the code for creating a home-space? 
@@ -39,7 +39,7 @@ What are the rituals we perform when we are at home? How have artists used ritua
 2. **Guest and Host** During class you have optionally self selected roles of host or guest, and all guests have been matched with a host. The host and guest(s) are responsible for finding a mutually agreed time to meet up at the home of the host. The term "home" can be interpreted broadly. The host will host the guest(s) at their home for some period of time (it need not be long). They may plan an activity or let the time be free form. Both host and guest are requested to take note of their experience in their role for group discussion on day 2. Note: This activity is not intended to make anyone feel uncomfortable and anyone may opt out at any time. Please communicate with each other if you need to change or opt out after a plan has been made, so nobody is left hanging.
 <br><br>
 
-## Day 2
+## Day 2 (August 10, 5:30-8:30pm)
 
 ### Guest and Host
 Let's debrief the guest and host activity. What did it feel like and what did you consider as the host? As the guest? What improvisational spaces did these roles create? What limits did them impose? Was there a script followed or run? Could we connect our experiences to ideas of "host" in software or biology?
