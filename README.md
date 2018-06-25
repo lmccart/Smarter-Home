@@ -26,6 +26,8 @@ What does it mean to capture a private space? What happens when networked techno
 ### House Work and Art Work
 How do we think about labor in the home? In what ways is our thinking around this gendered, and what are strategies for subverting or pushing back on these ideas? We will look at artists dealing with house work, making art work in their homes, and the technologies that accompany these practices.
 
+### Guest Artist: [Max Hawkins](https://maxhawkins.me/)
+
 ### Home Rituals
 What are the rituals we perform when we are at home? How have artists used ritual to create space? We will imagine rituals to turn SPFC into a home-space, and begin to design smart home devices to support these rituals.
 1. Write out a description, instructions, or score for your SFPC home ritual.
