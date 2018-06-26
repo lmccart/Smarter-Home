@@ -1,5 +1,3 @@
-<img src=".jpg" alt="smarthome illustration"><br>
-
 # Smart Home
 [SFPC Code Societies](http://sfpc.io/codesocieties/), Summer 2018
 
