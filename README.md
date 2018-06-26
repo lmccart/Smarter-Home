@@ -24,7 +24,7 @@ We will discuss the portraits of yourselves in your homes that you have captured
 What does it mean to capture a private space? What happens when networked technologies are brought into this? What roles do surveillance, data collection, and telepresence play?
 
 ### House Work and Art Work
-How do we think about labor in the home? How is power embedded in this, and what are strategies for subverting or pushing back? How does automation change things? We will look at artists dealing with house work, making art work in their homes, and the technologies that accompany these practices.
+How do we think about labor in the home? Where is power embedded, and what are strategies for pushing back? How does automation shift the flow of control? We will look at artists dealing with house work, making art work in their homes, and the technologies that accompany these practices.
 
 ### Guest Artist: [Max Hawkins](https://maxhawkins.me/)
 What if home were algorithmically generated in realtime?
