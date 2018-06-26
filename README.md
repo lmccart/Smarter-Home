@@ -1,4 +1,4 @@
-![woman reaching for device captured by nestcam](home2.jpg)
+![woman reaching for device captured by nestcam](map3.jpg)
 
 # Smart Home
 [SFPC Code Societies](http://sfpc.io/codesocieties/), Summer 2018
