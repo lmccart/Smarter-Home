@@ -1,4 +1,4 @@
-![abstract map of colors and cirlces](map3.jpg)
+![abstract map of colors and circles](map.jpg)
 
 # Smart Home
 [SFPC Code Societies](http://sfpc.io/codesocieties/), Summer 2018
