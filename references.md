@@ -20,9 +20,11 @@
 * Jae Rhim Lee, [N=1=NPK=KIMCHI=N](http://www.studiojaerhimlee.com/portfolio/n1npkkimchin/)
 * Azra Aksamija, [Nomadic Mosque](http://www.azraaksamija.net/nomadic-mosque/) and [Survival Mosque](http://www.azraaksamija.net/survival-mosque/)
 * [May Waver](https://www.maywaver.com/)
+* Nam June Paik, [Good Morning Mr. Orwell](http://www.openculture.com/2016/09/good-morning-mr-orwell.html)
 
 ### Guest and Host
 * [airbnb delights](http://youregonnadiehere.tumblr.com/)
+* ART404 and Tom Galle, [Netflix and Chill Airbnb Room](http://tomgalle.online/Netflix-Chill-Airbnb-Room)
 
 
 ### House Work and Art Work
