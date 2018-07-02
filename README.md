@@ -23,9 +23,6 @@ We will discuss the portraits of yourselves in your homes that you have captured
 
 What does it mean to capture a private space? What happens when networked technologies are brought into this? What roles do surveillance, data collection, and telepresence play?
 
-### House Work and Art Work
-How do we think about labor in the home? Where is power embedded, and what are strategies for pushing back? How does automation shift the flow of control? We will look at artists dealing with house work, making art work in their homes, and the technologies that accompany these practices.
-
 ### Guest Artist: [Max Hawkins](https://maxhawkins.me/)
 What if home were algorithmically generated in realtime?
 
@@ -44,6 +41,9 @@ What are the rituals we perform when we are at home? How have artists used ritua
 
 ### Guest and Host
 Let's debrief the guest and host activity. What did it feel like and what did you consider as the host? As the guest? What improvisational spaces did these roles create? What limits did them impose? Was there a script followed or run? Could we connect our experiences to ideas of "host" in software or biology?
+
+### House Work and Art Work
+How do we think about labor in the home? Where is power embedded, and what are strategies for pushing back? How does automation shift the flow of control? We will look at artists dealing with house work, making art work in their homes, and the technologies that accompany these practices.
 
 ### Future Home
 We will spend most of this day creating our home of the future together, by building the devices designed in the Home Rituals activity. The devices can be installed in the SFPC space for further use and elaboration over the three weeks program.
