@@ -22,7 +22,7 @@
 * [May Waver](https://www.maywaver.com/)
 
 ### Guest and Host
-* coming soon
+* [airbnb delights](http://youregonnadiehere.tumblr.com/)
 
 
 ### House Work and Art Work
