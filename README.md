@@ -56,3 +56,5 @@ We will spend most of this day creating our home of the future together, by buil
 
 <br><br>
 
+![two women in colorful kitchen making estrogen](housewives.jpg)
+[Housewives Making Drugs](http://maggic.ooo/Housewives-Making-Drugs-2017), Mary Maggic
