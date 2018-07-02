@@ -18,6 +18,7 @@
 * Wendy Jacob, [Squeeze Chair](http://wendyjacob.net/?page_id=123)
 * Wendy Jacob, [Explorers Club](http://wendyjacob.net/?page_id=137)
 * Jae Rhim Lee, [N=1=NPK=KIMCHI=N](http://www.studiojaerhimlee.com/portfolio/n1npkkimchin/)
+* Azra Aksamija, [Nomadic Mosque](http://www.azraaksamija.net/nomadic-mosque/) and [Survival Mosque](http://www.azraaksamija.net/survival-mosque/)
 
 ### Guest and Host
 * coming soon
