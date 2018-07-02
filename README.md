@@ -50,7 +50,7 @@ We will spend most of this day creating our home of the future together, by buil
 <br><br>
 
 ## Going Further
-* [references](https://github.com/lmccart/Smart-Home/wiki/References)
+* [references](https://github.com/lmccart/Smart-Home/blob/master/references.md)
 * coming soon!
 
 <br><br>
