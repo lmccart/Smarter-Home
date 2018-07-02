@@ -1,4 +1,4 @@
-![abstract map of colors and circles](map.jpg)
+![airbnb room decked out with netflix furniture](netflix.jpg)
 
 # Smart Home
 [SFPC Code Societies](http://sfpc.io/codesocieties/), Summer 2018
