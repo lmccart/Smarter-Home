@@ -32,7 +32,7 @@ Capture a portrait of yourself in your home using a computational device. Feel f
 We will discuss the portraits of yourselves in your homes that you have captured. We will look at examples of other artists that have captured home using various technologies. How do we know when we are home? Could we write the code for creating a home-space? 
 
 ### Captured by Home
-What does it mean to capture a private space? What happens when networked technologies are brought into this? What roles do surveillance, data collection, and telepresence play?
+What does it mean to capture a private space? What happens when networked technologies are brought into this? What roles do surveillance, data collection, and telepresence play? Let's prototype this.
 * [If Face Then That](https://www.socialhacking.tips/iffacethenthat/)
 
 ### Guest Artist: [Max Hawkins](https://maxhawkins.me/)
