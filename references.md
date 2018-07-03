@@ -23,6 +23,7 @@ This is an in progress document :)
 * Azra Aksamija, [Nomadic Mosque](http://www.azraaksamija.net/nomadic-mosque/) and [Survival Mosque](http://www.azraaksamija.net/survival-mosque/)
 * [May Waver](https://www.maywaver.com/)
 * Nam June Paik, [Good Morning Mr. Orwell](http://www.openculture.com/2016/09/good-morning-mr-orwell.html)
+* Kelly Dobson, [Blendie](http://web.media.mit.edu/~monster/blendie/) ([video](https://www.youtube.com/watch?v=6DDkwdPaYmk))
 
 ### Guest and Host
 * [airbnb delights](http://youregonnadiehere.tumblr.com/)
