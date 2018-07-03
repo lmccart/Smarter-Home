@@ -1,16 +1,16 @@
 This is an in progress document :)
 
 ### Capturing Home
-* [NYT: Thermostats, Locks and Lights: Digital Tools of Domestic Abuse](https://www.nytimes.com/2018/06/23/technology/smart-home-devices-domestic-abuse.html)
-* Ai Weiwei, [weiweicam](http://cultofthedeadfish.blogspot.com/2012/04/ai-weiweicam.html)
-* Paolo Cirio, [Street Ghosts](https://paolocirio.net/work/street-ghosts/)
-* [We Live In Public](https://en.wikipedia.org/wiki/We_Live_in_Public)
 * Caitlin Robinson and Ziv Schneider, [Watertight](http://www.watertight.world/)
 * Michael Kontopoulos, [Sigh Collector](http://www.mkontopoulos.com/portfolio/measure-of-discontent-1/) and [Removal Studies](http://www.mkontopoulos.com/portfolio/removal-studies/)
 * Mary Mattingly, [Do Objects Come With Responsibility?](https://art21.org/watch/new-york-close-up/mary-mattingly-owns-up/)
 * Morehshin Allahyari, [Material Speculation: ISIS](http://www.morehshin.com/material-speculation-isis/)
 * Alfredo Jaar, [Lights in the City](http://www.alfredojaar.net/index1.html)
 * Nancy Nowacek, [Face Me](http://nancynowacek.com/face-me) and [Action Coding](http://nancynowacek.com/actioncoding)
+* [NYT: Thermostats, Locks and Lights: Digital Tools of Domestic Abuse](https://www.nytimes.com/2018/06/23/technology/smart-home-devices-domestic-abuse.html)
+* Ai Weiwei, [weiweicam](http://cultofthedeadfish.blogspot.com/2012/04/ai-weiweicam.html)
+* Paolo Cirio, [Street Ghosts](https://paolocirio.net/work/street-ghosts/)
+* [We Live In Public](https://en.wikipedia.org/wiki/We_Live_in_Public)
 
 ### Home Rituals
 * Philipp Schmitt, [Robotic Natives](https://philippschmitt.com/projects/robotic-natives)
