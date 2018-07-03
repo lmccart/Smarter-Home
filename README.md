@@ -26,7 +26,7 @@ Capture a portrait of yourself in your home using a computational device. Feel f
 [Watertight](http://www.watertight.world/), Caitlin Robinson and Ziv Schneider
 <br><br>
 
-## Day 1 (July 3, 6:30-9:30pm)
+## Day 1 (July 3, 6:30-9:30pm) [+slides](https://docs.google.com/presentation/d/16mNdarRGQK1O_YKuDi2UQT3wslPbwECxkbS9z4XrWM8/edit?usp=sharing)
 
 ### Capturing Home [+](https://github.com/lmccart/Smarter-Home/blob/master/references.md#capturing-home)
 We will discuss the portraits of yourselves in your homes that you have captured. We will look at examples of other artists that have captured home using various technologies. How do we know when we are home? Could we write the code for creating a home-space? 
