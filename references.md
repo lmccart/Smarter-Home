@@ -1,3 +1,5 @@
+This is an in progress document :)
+
 ### Capturing Home
 * [NYT: Thermostats, Locks and Lights: Digital Tools of Domestic Abuse](https://www.nytimes.com/2018/06/23/technology/smart-home-devices-domestic-abuse.html)
 * Ai Weiwei, [weiweicam](http://cultofthedeadfish.blogspot.com/2012/04/ai-weiweicam.html)
