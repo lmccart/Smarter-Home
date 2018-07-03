@@ -1,4 +1,5 @@
 ![google hangout with message "are you still there?"](imgs/hangout.jpg)
+<br><br>
 
 # Smarter Home
 [SFPC Code Societies](http://sfpc.io/codesocieties/), Summer 2018
@@ -19,10 +20,11 @@ Capture a portrait of yourself in your home using a computational device. Feel f
 ### Reading
 * Kashmir Hill and Surya Mattu, [The House That Spied On Me](https://gizmodo.com/the-house-that-spied-on-me-1822429852)
 * Johanna Hedva, [Sick Woman Theory](http://www.maskmagazine.com/not-again/struggle/sick-woman-theory)
-<br><br>
 
+<br><br>
 ![sculpture with person inside their home created from 3D scanning](imgs/watertight.jpg)
 [Watertight](http://www.watertight.world/), Caitlin Robinson and Ziv Schneider
+<br><br>
 
 ## Day 1 (July 3, 6:30-9:30pm)
 
@@ -43,10 +45,11 @@ What are the rituals we perform when we are at home? How have artists used ritua
 ### Homework ✨
 1. **Home Rituals** If you have not completed steps 1-3 above, please do so before day 2. Bring your plans, designs, and all needed materials to the next class.
 2. **Guest and Host** During class you have optionally self selected roles of host or guest, and all guests have been matched with a host. The host and guest(s) are responsible for finding a mutually agreed time to meet up at the home of the host. The term "home" can be interpreted broadly. The host will host the guest(s) at their home for some period of time (it need not be long). They may plan an activity or let the time be free form. Both host and guest are requested to take note of their experience in their role for group discussion on day 2. Note: This activity is not intended to make anyone feel uncomfortable and anyone may opt out at any time. Please communicate with each other if you need to change or opt out after a plan has been made, so nobody is left hanging.
-<br><br>
 
+<br><br>
 ![airbnb room decked out with netflix furniture](imgs/netflix.jpg)
 [Netflix & Chill Airbnb Room](http://tomgalle.online/Netflix-Chill-Airbnb-Room), ART404 and Tom Galle
+<br><br>
 
 ## Day 2 (July 10, 5:30-8:30pm)
 
