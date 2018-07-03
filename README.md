@@ -38,7 +38,7 @@ What does it mean to capture a private space? What happens when networked techno
 ### Guest Artist: [Max Hawkins](https://maxhawkins.me/)
 What if home were algorithmically generated in realtime?
 
-### Home Rituals
+### Home Rituals [+](https://github.com/lmccart/Smarter-Home/blob/master/references.md#home-rituals)
 What are the rituals we perform when we are at home? How have artists used ritual to create space? We will imagine rituals to turn SPFC into a home-space, and begin to design smart home devices to support these rituals.
 1. Write out a description, instructions, or score for your SFPC home ritual.
 2. Design a device to facilitate or support this ritual. What will be the function of this device? How will its visual form suggest its purpose? What materials, technologies, non-technologies, or information will you need to create this device?
@@ -55,18 +55,18 @@ What are the rituals we perform when we are at home? How have artists used ritua
 
 ## Day 2 (July 10, 5:30-8:30pm)
 
-### Guest and Host
+### Guest and Host [+](https://github.com/lmccart/Smarter-Home/blob/master/references.md#guest-and-host)
 Let's debrief the guest and host activity. What did it feel like and what did you consider as the host? As the guest? What improvisational spaces did these roles create? What limits did them impose? Was there a script followed or run? Could we connect our experiences to ideas of "host" in software or biology?
 
-### House Work and Art Work
+### House Work and Art Work [+](https://github.com/lmccart/Smarter-Home/blob/master/references.md#house-work-and-art-work)
 How do we think about labor in the home? Where is power embedded, and what are strategies for pushing back? How does automation shift the flow of control? We will look at artists dealing with house work, making art work in their homes, and the technologies that accompany these practices.
 
-### Future Home
+### Future Home [+](https://github.com/lmccart/Smarter-Home/blob/master/references.md#future-home)
 We will spend most of this day creating our home of the future together, by building the devices designed in the Home Rituals activity. The devices can be installed in the SFPC space for further use and elaboration over the three weeks program.
 <br><br>
 
 ## Going Further
-* [references](https://github.com/lmccart/Smart-Home/blob/master/references.md)
+* [References](https://github.com/lmccart/Smart-Home/blob/master/references.md)
 * coming soon!
 
 <br><br>
