@@ -47,9 +47,8 @@ What are the rituals we perform when we are at home? How have artists used ritua
 ### Homework ✨
 **Home Rituals** If you have not completed steps 1-3 above, please do so before day 2. Bring your plans, designs, and all needed materials to the next class.
 
-**Extra Credit: Guest and Host** During class you have optionally self selected roles of host or guest, and all guests have been matched with a host. The host can invite the guests to meet up at their home. The term "home" can be interpreted broadly. * The period of time is up to the host and guests. As a default, I would suggest 30-60 minutes to keep it low pressure.
-* The host may plan an activity or let the time be free form. As a default, I would suggest giving a tour of your home, showing your guests the meaningful objects and spaces within the home.
-Both host and guest are requested to take note of their experience in their role for group discussion on day 2.
+**Extra Credit: Guest and Host** Consider inviting one or more of your classmates as guests to visit your home. The term "home" can be interpreted broadly. The period of time and activity is up to the host and guests. If you are looking for something to do, I might suggest giving a tour of your home, showing your guests the meaningful objects and spaces within the home.
+* Both host and guest are requested to take note of their experience in their role for group discussion on day 2.
 * The guest might choose to bring something with them to share.
 * Note: This activity is not intended to make anyone feel uncomfortable and anyone may opt out at any time. Please communicate with each other if you need to change or opt out after a plan has been made, so nobody is left hanging.
 
