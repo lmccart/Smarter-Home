@@ -1,0 +1,29 @@
+<html><head>
+  <meta charset="UTF-8">
+  <title>FaceTracking</title>
+  <script src="lib/p5.min.js"></script>
+  <script src="lib/p5.dom.min.js"></script>
+  <script src="lib/p5.sound.min.js"></script>
+  <script src="lib/clmtrackr.min.js"></script>
+  <script src="lib/canvasfilters.js"></script>
+
+  <script src="lib/functions.js"></script>
+
+  <script src="sketch.js"></script>
+  <link rel="stylesheet" type="text/css" href="style.css">
+</head>
+
+<body>
+  <div id="debug" data-title="Correlation">
+    <canvas id="trackerCanvas" width=320 height=240></canvas>
+    <canvas id="eyeCanvas" width=80 height=60></canvas>
+    <canvas id="bwCanvas" width=80 height=60></canvas>
+    <canvas id="thCanvas" width=80 height=60></canvas>
+    <canvas id="oldCanvas" width=80 height=60></canvas>
+    <canvas id="curCanvas" width=80 height=60></canvas>
+    <canvas id="cCanvas" width=80 height=60></canvas>
+    <p id="blinksDetected"></p>
+  </div>
+
+</body>
+</html>

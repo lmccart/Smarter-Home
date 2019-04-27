@@ -1,0 +1,24 @@
+* {
+    font-family: sans-serif;
+}
+
+body {
+  padding: 0;
+  margin: 0;
+}
+
+#debug {
+  position: absolute;
+  bottom: 1em;
+  left: 1em;
+  z-index: 3;
+}
+
+#blinksDetected {
+  position: absolute;
+  bottom: 0em;
+  left: 0.5em;
+  background: white;
+  padding: 0.1em 0.2em;
+  z-index: 2;
+}
