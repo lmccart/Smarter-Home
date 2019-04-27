@@ -1,5 +1,5 @@
 var tracker;
-var pos;
+var pos, lastPos, mvmt;
 
 var blinkTimeout;
 
@@ -17,6 +17,7 @@ var settings = {
   brightness: 0.5,
   threshold: 80,
   minCorrelation: 0.17,
+  maxCorrelation: 0.2
 };
 
 
@@ -96,6 +97,7 @@ function updateFace() {
   curContext.clearRect(0, 0, curContext.canvas.width, curContext.canvas.height);
   cContext.clearRect(0, 0, cContext.canvas.width, cContext.canvas.height);
 
+  lastPos = pos;
   pos = tracker.getCurrentPosition();
   if (pos.length) {
     var mouthLeft = createVector(pos[44][0], pos[44][1]);
@@ -169,7 +171,17 @@ function correlation() {
 
   // correlationPercentage.innerHTML = parseFloat(currentCorrelation).toFixed(2) + '%';
 
-  if (currentCorrelation > settings.minCorrelation && !blinkTimeout) {
+  if (lastPos.length && pos.length) {
+    //mvmt = Math.abs(pos[23][0] - lastPos[23][0]) + Math.abs(pos[24][0] - lastPos[24][0]) + Math.abs(pos[25][0] - lastPos[25][0]) + Math.abs(pos[26][0] - lastPos[26][0]);
+  
+  
+    mvmt = 0;
+    for (var i=0; i<pos.length; i++) {
+      mvmt += Math.abs(pos[i][0] - lastPos[i][0]);
+    }
+  }
+
+  if (mvmt && mvmt < 40 && currentCorrelation > settings.minCorrelation && !blinkTimeout) {
     blinks++;
     blinkTimeout = setTimeout(clearBlink, 500);
     blink();
