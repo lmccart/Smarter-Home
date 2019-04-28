@@ -15,9 +15,7 @@ var correlationPercentage, blinksDetected;
 var settings = {
   contrast: 3,
   brightness: 0.5,
-  threshold: 80,
-  minCorrelation: 0.17,
-  maxCorrelation: 0.2
+  threshold: 80
 };
 
 
@@ -181,7 +179,7 @@ function correlation() {
     }
   }
 
-  if (mvmt && mvmt < 40 && currentCorrelation > settings.minCorrelation && !blinkTimeout) {
+  if (mvmt && mvmt < allowableFaceMovement*100 && currentCorrelation > blinkSensitivity && !blinkTimeout) {
     blinks++;
     blinkTimeout = setTimeout(clearBlink, 500);
     blink();

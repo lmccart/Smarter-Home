@@ -5,6 +5,8 @@ var n = 0;
 function setup() {
   createCanvas(windowWidth, windowHeight);
   initDatabase();
+  textSize(30);
+  textAlign(CENTER);
 }
 
 function draw() {

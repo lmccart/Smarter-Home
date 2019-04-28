@@ -10,6 +10,8 @@ function setup() {
   createCanvas(windowWidth, windowHeight);
   vw = width;
   vh = height;
+
+  // you can change the video file here. make sure it's in the project folder.
   video = createVideo("fingers.mov", function() {
     video.hide();
     video.loop();
@@ -23,6 +25,8 @@ function draw() {
   
   if (video.width) image(video, vx, vy, vw, vh);
 
+  // this blacks out video unless mic volume is more than 0.3
+  // you can adjust this level
   if (volume < 0.3) {
     background(0);
   }
@@ -31,6 +35,7 @@ function draw() {
 }
 
 
+// this helps with positioning projection
 function keyPressed() {
   if (key === '1') {
     k = 1;
