@@ -62,5 +62,7 @@ function keyPressed() {
     addVote('positive');
   } else if (key == '2') {
     addVote('negative');
+  } else if (key == '0') {
+    clearVotes();
   }
 }

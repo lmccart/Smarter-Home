@@ -1,5 +1,10 @@
 var p = 0;
 var n = 0;
+var heart;
+
+function preload() {
+  heart = loadImage("heart.png");
+}
 
 
 function setup() {
@@ -12,6 +17,11 @@ function setup() {
 function draw() {
   background(200);
   text("positive: "+p+" negative: "+n, width/2, height/2);
+
+  for (var i=0; i<p; i++) {
+    image(heart, width/2, height-5-(i*5), 5, 5);
+  }
+
 }
 
 

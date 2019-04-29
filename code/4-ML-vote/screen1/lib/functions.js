@@ -74,3 +74,9 @@ function updateTracking() {
 function modelReady() {
   select('#status').remove();
 }
+
+// adds vote to database so it can be retrieved by second screen
+function clearVotes() {
+  firebase.database().ref('/positive/').set(0);
+  firebase.database().ref('/negative/').set(0);
+}
