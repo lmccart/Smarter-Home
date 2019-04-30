@@ -33,39 +33,50 @@ function initTracking() {
 function updateTracking() {
   if (pose) {
 
+    var heart = false;
+    var cross = false;
+
     var leftShoulder = pose['leftShoulder'];
+    var leftElbow = pose['leftElbow'];
     var leftWrist = pose['leftWrist'];
-    var leftDiff = leftShoulder.y - leftWrist.y;
-
-
     var rightShoulder = pose['rightShoulder'];
+    var rightElbow = pose['rightElbow'];
     var rightWrist = pose['rightWrist'];
-    var rightDiff = rightShoulder.y - rightWrist.y;
 
 
-    var left = false;
-    var right = false;
+    leftDiff = leftShoulder.y - leftWrist.y;
+    rightDiff = rightShoulder.y - rightWrist.y;
 
-    if (leftDiff > 0) {
-      left = true;
+    if (leftDiff > 0 && rightDiff > 0) {
+      heart = true;
     }
-    if (rightDiff > 0) {
-      right = true;
+
+
+    // should be neg
+    leftElbowDiffY = leftShoulder.y - leftElbow.y;
+    rightElbowDiffY = rightShoulder.y - rightElbow.y;
+
+    // should be pos
+    leftWristDiffY = leftElbow.y - leftWrist.y;
+    rightWristDiffY = rightElbow.y - rightWrist.y;
+
+    // should be pos
+    wristsDiffX = Math.abs(leftWrist.x - rightWrist.x);
+    elbowsDiffX = Math.abs(leftElbow.x - rightElbow.x);
+
+    if (leftElbowDiffY < 0 && rightElbowDiffY < 0 && 
+       (leftWristDiffY + rightWristDiffY) > 0 && 
+       wristsDiffX < elbowsDiffX) {
+      cross = true;
     }
     // console.log(leftDiff, rightDiff)
 
-    if (left && !right) {
+    if (heart) {
       vote = 'positive';
-    } else if (!left && right) {
+    } else if (cross) {
       vote = 'negative';
-    } else if (!left && !right) {
+    } else {
       vote = 'none';
-    } else if (left && right) {
-      if (leftDiff > rightDiff) {
-        vote = 'positive';
-      } else {
-        vote = 'negative';
-      }
     }
   }
 }
