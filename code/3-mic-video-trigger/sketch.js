@@ -1,20 +1,27 @@
-var video;
-var vx = 0;
-var vy = 0;
-var vw = 0;
-var vh = 0;
-var k = 1;
-var started = false;
+var vid1, vid2, vid3;
+var keystone = false;
+
+var positions = [
+  [0, 0, 100, 100], // 1
+  [100, 200, 50, 50], // 2
+  [500, 300, 100, 100]  // 3
+];
+
+var v = 0;
+var k = 0;
 
 function setup() {
   createCanvas(windowWidth, windowHeight);
-  vw = width;
-  vh = height;
 
   // you can change the video file here. make sure it's in the project folder.
-  video = createVideo("fingers.mov", function() {
-    video.hide();
-    video.loop();
+  vid1 = createVideo("fingers.mov", function() {
+    vid1.hide();
+  });
+  vid2 = createVideo("fingers.mov", function() {
+    vid2.hide();
+  });
+  vid3 = createVideo("fingers.mov", function() {
+    vid3.hide();
   });
 
 }
@@ -23,63 +30,76 @@ function draw() {
   background(0);
   updateMic();
   
-  if (video.width) image(video, vx, vy, vw, vh);
-
-  // this blacks out video unless mic volume is more than 0.3
-  // you can adjust this level
-  if (volume < 0.3) {
-    background(0);
+  if (volume > 0.5 || keystone) {
+    if (vid3.width) image(vid3, positions[2][0], positions[2][1], positions[2][2], positions[2][3])
   }
-  console.log(volume)
+
+  if (volume > 0.3 || keystone) {
+    if (vid2.width) image(vid2, positions[1][0], positions[1][1], positions[1][2], positions[1][3])
+  }
+
+  if (volume > 0.1 || keystone) {
+    if (vid1.width) image(vid1, positions[0][0], positions[0][1], positions[0][2], positions[0][3])
+  }
+
+  // console.log(volume);
   
 }
 
 
 // this helps with positioning projection
 function keyPressed() {
-  if (key === '1') {
-    k = 1;
+  if (Number(key) >= 1 && Number(key) <= 4) {
+    console.log('a')
+    v = Number(key) - 1;
   }
-  else if (key === '2') {
-    k = 2;
-  }
-  else if (key === '3') {
-    k = 3;
-  }
-  else if (key === '4') {
-    k = 4;
+  else if (Number(key) >= 5 && Number(key) <= 8) {
+    k = Number(key) - 4;
+    console.log('b')
   }
   else if (keyCode === LEFT_ARROW) {
     if (k == 1) {
-      vx--;
-      vw++;
+      positions[v][0]--;
+      positions[v][2]++;
     } else if (k == 3) {
-      vw--;
+      positions[v][2]--;
     }
   }
   else if (keyCode === RIGHT_ARROW) {
     if (k == 1) {
-      vx++;
-      vw--;
+      positions[v][0]++;
+      positions[v][2]--;
     } else if (k == 3) {
-      vw++;
+      positions[v][2]++;
     }
   }
   else if (keyCode === UP_ARROW) {
     if (k == 2) {
-      vy--;
-      vh++;
+      positions[v][1]--;
+      positions[v][3]++;
     } else if (k == 4) {
-      vh--;
+      positions[v][3]--;
     }
   }
   else if (keyCode === DOWN_ARROW) {
     if (k == 2) {
-      vy++;
-      vh--;
+      positions[v][1]++;
+      positions[v][3]--;
     } else if (k == 4) {
-      vh++;
+      positions[v][3]++;
     }
   }
-  console.log(vx, vy, vw, vh);
+  else if (key == 'K') {
+    keystone = !keystone;
+  }
+
+
+  console.log(positions);
+}
+
+function mousePressed() {
+  startMic();
+  vid1.loop();
+  vid2.loop();
+  vid3.loop();
 }
