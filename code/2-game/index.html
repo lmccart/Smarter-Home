@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+
+<html lang="en">
+
+  <head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="style.css">
+    <script src="lib/p5.min.js"></script>
+    <script src="lib/p5.dom.min.js"></script>
+    <script src="lib/tracking-min.js"></script>
+    <script src="lib/functions.js"></script>
+    <script src="sketch.js"></script>
+  </head>
+
+  <body>
+
+    <div class="display">
+      <video id="webcam" width="640" height="480" autoplay></video>
+      <canvas id="canvas" width="640" height="480"></canvas>
+    </div>
+
+    <div class="ui">
+
+      <div class="controls">
+        <div>
+          <label for="pieceTolerance">Piece Tolerance:</label>
+          <input id="pieceTolerance" type="range" value="50" max="255" min="0" step="1">
+        </div>
+        <div>
+          <label for="circleTolerance">Circle Tolerance:</label>
+          <input id="circleTolerance" type="range" value="50" max="255" min="0" step="1">
+        </div>
+        <div>
+          <label for="distanceTolerance">Distance Tolerance:</label>
+          <input id="distanceTolerance" type="range" value="50" max="100" min="0" step="1">
+        </div>
+
+      </div>
+
+      <div id="pieceSwatch" class='swatch'></div>
+      <div id="circleSwatch" class='swatch'></div>
+
+    </div>
+
+  </body>
+
+</html>

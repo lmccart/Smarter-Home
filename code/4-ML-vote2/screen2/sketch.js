@@ -43,7 +43,7 @@ function draw() {
 
   console.log(p, n);
   canvas.getContext('2d').clearRect(0, 0, width, height)
-  // drawSkeleton(); 
+  drawSkeleton(); 
 
   if (p < 30 && n < 30) {
     // update tracking and add vote if needed
