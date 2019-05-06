@@ -10,6 +10,7 @@ body {
 
 .display {
   position: relative;
+  z-index: 5;
 }
 
 video {
@@ -28,6 +29,7 @@ canvas {
   width: 640px;
   display: flex;
   justify-content: space-between;
+  z-index: 5;
 }
 
 .ui .controls {
@@ -39,6 +41,7 @@ canvas {
   box-sizing: border-box;
   padding: 0 15px;
   flex-grow: 1;
+  z-index: 5;
 }
 
 .ui .controls p {
@@ -51,6 +54,7 @@ canvas {
   height: 100px;
   border: 1px solid gray;
   margin-left: 10px;
+  z-index: 5;
 }
 
 

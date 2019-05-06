@@ -4,6 +4,7 @@ var circleColor = {r: 21, g: 105, b: 98};
 var pieceTolerance = 50;
 var circleTolerance = 61;
 var distanceTolerance = 50;
+var circleX, circleY;
 
 
 var debug = true;
@@ -81,6 +82,8 @@ function startTracking() {
           drawRect(rect, context, circleColor);
 
           if (dist(rect, last) > 100) {
+            circleX = rect.x + rect.width/2;
+            circleY = rect.y + rect.height/2;
             circleHit();
           }
 
